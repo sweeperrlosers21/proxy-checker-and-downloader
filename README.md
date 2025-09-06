@@ -60,8 +60,8 @@ pip install aiohttp aiofiles tqdm
 ### Installation & Usage
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sweeper-of-losers.git
-cd sweeper-of-losers
+git clone https://github.com/sweeperrlosers21/proxy-checker-and-downloader.git
+cd proxy-checker-and-downloader
 
 # Install dependencies
 pip install -r requirements.txt
