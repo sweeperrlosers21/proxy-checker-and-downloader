@@ -225,6 +225,8 @@ MIT License - Feel free to reap and sow as you wish
 
 **⭐ Star this repository if you survived the reaping! ⭐**
 
+**🔗 Repository: https://github.com/sweeperrlosers21/proxy-checker-and-downloader**
+
 **💀 Remember: Only the LIVE deserve to survive 💀**
 
 *Last updated: January 2025*
