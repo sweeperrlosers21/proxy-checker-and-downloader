@@ -1,0 +1,21 @@
+# 💀 SWEEPER OF LOSERS - Requirements File 🧹
+# Dependencies for the Ultimate Proxy Hunter
+# Developed by: Sweeper of Losers 21
+# Repository: https://github.com/sweeperrlosers21/proxy-checker-and-downloader
+
+# Core Dependencies
+aiohttp>=3.8.0,<4.0.0          # Async HTTP client for proxy checking
+aiofiles>=22.1.0               # Async file I/O operations
+tqdm>=4.64.0                   # Progress bars and animations
+
+# Optional Dependencies (for enhanced features)
+asyncio-throttle>=1.0.2        # Rate limiting (optional)
+colorama>=0.4.6                # Cross-platform colored terminal text
+requests>=2.28.0               # Fallback HTTP client (backup)
+
+# Development Dependencies (optional, for contributors)
+# Uncomment if you want to contribute or modify the code
+# pytest>=7.1.0                # Testing framework
+# black>=22.0.0                 # Code formatter  
+# flake8>=5.0.0                 # Code linting
+# mypy>=0.991                   # Type checking
